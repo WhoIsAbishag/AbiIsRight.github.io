@@ -9,21 +9,21 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+    <title>Document</title>
+</head>
+<body>
+<H1>Welcome to the Home Page</H1>
+<h2>This is what I will be learning for awhile</h2>
+<p style="color:firebrick;">This is the home page</p>
+<a href="https://www.youtube.com/">Click here to go YouTube</a>
+<img src="AIfirstrun.jpg" alt="AIfirstrun" width="100" height="150" >
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+</body>
+</html>
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
