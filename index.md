@@ -35,3 +35,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+<div class="tenor-gif-embed" data-postid="18479764" data-share-method="host" data-aspect-ratio="1.33891" data-width="100%"><a href="https://tenor.com/view/inu-yasha-sit-kagome-gif-18479764">Inu Yasha Sit GIF</a>from <a href="https://tenor.com/search/inu+yasha-gifs">Inu Yasha GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
